@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Yo88 | Trang Chủ Game Bài Đổi Thưởng Số 1 Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Yo88 <https://yo88site.com>`_ - Tải APP Yo88 Chính Thức 2024
+Yo88, cổng game đổi thưởng hàng đầu Châu Á, tặng ngay code miễn phí 50k khi đăng ký thành viên! Được biết đến với sự uy tín và chất lượng, Yo88 mang đến hàng loạt trò chơi đổi thưởng hấp dẫn như Tiến lên, Phỏm, Poker, Xì dách, Bắn cá, Tài xỉu và Bầu cua, giúp người chơi có những phút giây giải trí an toàn và cơ hội đổi thưởng lớn. Dịch vụ nạp rút nhanh chóng, kèm theo hỗ trợ khách hàng 24/7, Yo88 không ngừng nâng cao trải nghiệm cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://yo88site.com 
 
-   This project is under active development.
+Địa chỉ: 20A Hẻm 33, khu phố 3, Quận 7, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Hotline: 0978 339 339
 
-.. toctree::
+Email: info@yo88site.com
 
-   usage
-   api
+Hashtags: #yo88 #taiappyo88 #dangkyyo88 #dangnhapyo88
